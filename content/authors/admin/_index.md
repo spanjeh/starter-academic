@@ -6,7 +6,7 @@ title: Sareh Panjeh
 superuser: true
 
 # Role/position/tagline
-role: PhD fellow of Psychometrics
+role: PhD candidate in Psychiatry and Medical Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
