@@ -11,7 +11,7 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
+active: false
 links:
 - icon: twitter
   icon_pack: fab
